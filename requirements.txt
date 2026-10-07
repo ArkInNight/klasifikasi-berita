@@ -1,0 +1,8 @@
+﻿streamlit
+gensim
+joblib
+numpy
+scikit-learn
+sastrawi
+trafilatura
+requests
